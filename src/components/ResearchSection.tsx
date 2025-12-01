@@ -89,19 +89,19 @@ const researchData: CategoryData = {
 // 大學生專題資料
 const undergradProjects: ResearchItem[] = [
   {
-    year: '109',
-    student: '李小明',
-    topic: '機器學習在推薦系統的應用',
+    year: '114',
+    student: '糖小護',
+    topic: '聯新國際智慧健康照護 第二名',
   },
   {
-    year: '109',
-    student: '王大華',
-    topic: '深度學習於影像辨識之研究',
+    year: '113',
+    student: '碳足跡教育',
+    topic: '教育開放資料組 第一名',
   },
   {
-    year: '108',
-    student: '陳志明',
-    topic: '自然語言處理在客服系統的應用',
+    year: '113',
+    student: '人工智慧財務健檢戰情室',
+    topic: '商業資訊創新應用組第三名',
   },
 ];
 
@@ -168,11 +168,12 @@ function ResearchTable({ title, data, delay = 0 }: TableProps) {
     >
       {/* Table Title */}
       <div
-        className="px-8 py-4 text-center font-medium"
+        className="px-8 py-2 text-center font-medium"
         style={{
           backgroundColor: '#10B7A5',
           color: 'white',
-          fontSize: '16px',
+          fontSize: '20px',
+          fontWeight: 1000
         }}
       >
         {title}
@@ -187,13 +188,13 @@ function ResearchTable({ title, data, delay = 0 }: TableProps) {
           borderBottom: '1px solid #e5e7eb',
         }}
       >
-        <div className="text-[#10B7A5]" style={{ fontSize: '15px', fontWeight: 1000 }}>
+        <div className="text-[#10B7A5]" style={{ fontSize: '20px', fontWeight: 1000 }}>
           年度
         </div>
-        <div className="text-[#10B7A5]" style={{ fontSize: '15px', fontWeight: 1000 }}>
+        <div className="text-[#10B7A5]" style={{ fontSize: '20px', fontWeight: 1000 }}>
           學生
         </div>
-        <div className="text-[#10B7A5]" style={{ fontSize: '15px', fontWeight: 1000 }}>
+        <div className="text-[#10B7A5]" style={{ fontSize: '20px', fontWeight: 1000 }}>
           成果
         </div>
       </div>
@@ -300,7 +301,7 @@ export function ResearchSection() {
         {/* Conditional Rendering: Two tables for undergrad, single table for others */}
         {activeCategory === 'undergrad' ? (
           // Two Tables Side by Side for 大學生專題(競賽)
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6" >
             <ResearchTable title="大學生專題" data={undergradProjects} delay={0.4} />
             <ResearchTable title="競賽" data={competitions} delay={0.5} />
           </div>
@@ -318,17 +319,17 @@ export function ResearchSection() {
               className="grid gap-6 px-8 py-2"
               style={{
                 gridTemplateColumns: '80px 120px 1fr',
-                backgroundColor: '#f9fafb',
+                backgroundColor: '#10B7A5',
                 borderBottom: '1px solid #e5e7eb',
               }}
             >
-              <div className="text-[#10B7A5]" style={{ fontSize: '15px', fontWeight: 1000 }}>
+              <div  style={{ fontSize: '20px', fontWeight: 1000 , color: '#FFFFFF' }}>
                 年度
               </div>
-              <div className="text-[#10B7A5]" style={{ fontSize: '15px', fontWeight: 1000 }}>
+              <div  style={{ fontSize: '20px', fontWeight: 1000 , color: '#FFFFFF' }}>
                 學生
               </div>
-              <div className="text-[#10B7A5]" style={{ fontSize: '15px', fontWeight: 1000 }}>
+              <div  style={{ fontSize: '20px', fontWeight: 1000 , color: '#FFFFFF' }}>
                 研究
               </div>
             </div>

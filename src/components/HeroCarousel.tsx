@@ -22,9 +22,9 @@ const slides: CarouselSlide[] = [
     tag: '企業應用',
     mainImage: '/img/hero/深度學習.png',
     cardImages: [
-      'https://images.unsplash.com/photo-1732881112419-ca9ce3b852d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaWNyb3Njb3BlJTIwbmFub3RlY2hub2xvZ3l8ZW58MXx8fHwxNzYwNzgxNTc1fDA&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1652212976547-16d7e2841b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3klMjBibHVlfGVufDF8fHx8MTc2MDc1ODU0OXww&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1558181445-eca4774b2a37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGVhbiUyMG1vZGVybiUyMHdvcmtzcGFjZXxlbnwxfHx8fDE3NjA2OTU3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080',
+      '/img/hero/2024專題-1.jpg',
+      '/img/hero/2024專題-2.jpg',
+      '/img/hero/輿情分析.png',
     ],
   },
   {
@@ -35,9 +35,9 @@ const slides: CarouselSlide[] = [
     tag: '金融科技',
     mainImage: '/img/hero/數位金融.png',
     cardImages: [
-      'https://images.unsplash.com/photo-1652212976547-16d7e2841b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3klMjBibHVlfGVufDF8fHx8MTc2MDc1ODU0OXww&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1558181445-eca4774b2a37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGVhbiUyMG1vZGVybiUyMHdvcmtzcGFjZXxlbnwxfHx8fDE3NjA2OTU3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5JTIwcmVzZWFyY2glMjBzY2llbmNlfGVufDF8fHx8MTc2MDcwNDk4OHww&ixlib=rb-4.1.0&q=80&w=1080',
+      '/img/hero/2024專題-1.jpg',
+      '/img/hero/2024專題-2.jpg',
+      '/img/hero/輿情分析.png',
     ],
   },
   {
@@ -48,9 +48,9 @@ const slides: CarouselSlide[] = [
     tag: '自然語言處理',
     mainImage: '/img/hero/文字的力量.png',
     cardImages: [
-      'https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5JTIwcmVzZWFyY2glMjBzY2llbmNlfGVufDF8fHx8MTc2MDcwNDk4OHww&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1732881112419-ca9ce3b852d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaWNyb3Njb3BlJTIwbmFub3RlY2hub2xvZ3l8ZW58MXx8fHwxNzYwNzgxNTc1fDA&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1558181445-eca4774b2a37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGVhbiUyMG1vZGVybiUyMHdvcmtzcGFjZXxlbnwxfHx8fDE3NjA2OTU3Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080',
+      '/img/hero/2024專題-1.jpg',
+      '/img/hero/開會照片.jpg',
+      '/img/hero/2024專題-2.jpg',
     ],
   },
   {
@@ -61,9 +61,9 @@ const slides: CarouselSlide[] = [
     tag: '社會分析',
     mainImage: '/img/hero/輿情分析.png',
     cardImages: [
-      'https://images.unsplash.com/photo-1652212976547-16d7e2841b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3klMjBibHVlfGVufDF8fHx8MTc2MDc1ODU0OXww&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1760493828288-d2dbb70d18c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5JTIwcmVzZWFyY2glMjBzY2llbmNlfGVufDF8fHx8MTc2MDcwNDk4OHww&ixlib=rb-4.1.0&q=80&w=1080',
-      'https://images.unsplash.com/photo-1732881112419-ca9ce3b852d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaWNyb3Njb3BlJTIwbmFub3RlY2hub2xvZ3l8ZW58MXx8fHwxNzYwNzgxNTc1fDA&ixlib=rb-4.1.0&q=80&w=1080',
+      '/img/hero/2024專題-1.jpg',
+      '/img/hero/2024專題-2.jpg',
+      '/img/hero/文字的力量.png',
     ],
   },
 ];

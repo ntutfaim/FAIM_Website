@@ -4,7 +4,7 @@ import { useRef } from 'react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 // 使用 Unsplash 圖片（暫時替代 Figma 資源）
-const philosophyImage = 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80';
+const philosophyImage = '/img/hero/開會照片.jpg';
 
 const philosophyCards = [
   {
@@ -287,8 +287,8 @@ export function PhilosophySection() {
                   <h4
                     className="text-slate-800 mb-1"
                     style={{
-                      fontSize: '20px',
-                      fontWeight: 500,
+                      fontSize: '21px',
+                      fontWeight: 1000,
                       lineHeight: 1.3,
                     }}
                   >
@@ -311,9 +311,9 @@ export function PhilosophySection() {
                   {/* Description */}
                   <p
                     style={{
-                      fontSize: '13px',
-                      fontWeight: 600,
-                      color: 'rgba(51, 65, 85, 0.8)',
+                      fontSize: '15px',
+                      fontWeight: 500,
+                      color: 'rgba(0, 0, 0, 1)',
                       lineHeight: 1.7,
                     }}
                   >

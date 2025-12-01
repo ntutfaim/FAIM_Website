@@ -84,29 +84,7 @@ export function ChatBot() {
 
   return (
     <>
-      {/* 觸發按鈕 */}
-      <motion.button
-        onClick={() => setIsOpen(true)}
-        className="fixed bottom-8 right-8 z-50 w-16 h-16 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-full flex items-center justify-center text-white shadow-lg shadow-cyan-500/50 hover:shadow-cyan-500/70 transition-shadow duration-300"
-        whileHover={{ scale: 1.1 }}
-        whileTap={{ scale: 0.95 }}
-        animate={{
-          boxShadow: [
-            '0 8px 32px rgba(6, 182, 212, 0.5)',
-            '0 8px 48px rgba(6, 182, 212, 0.7)',
-            '0 8px 32px rgba(6, 182, 212, 0.5)',
-          ],
-        }}
-        transition={{
-          boxShadow: {
-            duration: 2,
-            repeat: Infinity,
-            ease: 'easeInOut',
-          },
-        }}
-      >
-        <MessageSquare className="w-8 h-8" />
-      </motion.button>
+
 
       {/* 聊天視窗 */}
       <AnimatePresence>
