@@ -59,6 +59,171 @@ const researchData: CategoryData = {
       student: '王晏臻',
       topic: '結合大型語言模型優化財金問答系統的應用研究',
     },
+    {
+      year: '112',
+      student: '周育德',
+      topic: '結合知識圖譜之財金專業問答系統',
+    },
+    {
+      year: '112',
+      student: '劉蕓題',
+      topic: '配對交易應用於台灣股市逐筆交易制度',
+    },
+    {
+      year: '112',
+      student: '洪子貽',
+      topic: '整合圖譜與評論文本的紅酒推薦系統',
+    },
+    {
+      year: '112',
+      student: '林伊薇',
+      topic: '結合輿情與盤中逐筆交易數據探索投資者行為',
+    },
+    {
+      year: '112',
+      student: '葉茂祥',
+      topic: '透過層級分析法（AHP）研究影響葡萄酒風味的關鍵因素- 以紅葡萄酒為例',
+    },
+    {
+      year: '112',
+      student: '邱顯富',
+      topic: '囤房稅2.0對房地產市場影響之研究',
+    },
+    {
+      year: '112 ',
+      student: '黃雪芳',
+      topic: '運用顧客旅程地圖探討實體店家建置電商網站轉型線上經營之關鍵要素',
+    },
+    {
+      year: '112',
+      student: '郭姵庭',
+      topic: '影響中小企業申請IPO之決策因素探討',
+    },
+    {
+      year: '112',
+      student: '張禹崴',
+      topic: '使用顧客旅程探討人壽保險公司核保部門導入生成式AI知識庫',
+    },
+    {
+      year: '112',
+      student: '高國安',
+      topic: '六大營造公司逆境中的創新與轉型： 準整合組織架構理論及關鍵要素之研究',
+    },
+    {
+      year: '111',
+      student: '黃盺瑜',
+      topic: '探索意見領袖在台灣線上股市論壇中的影響',
+    },
+    {
+      year: '111',
+      student: 'Polsri, Suyanee',
+      topic: 'A Framework for Aspect Sentiment Analysis of Sequel Movie Reviews Using Machine Learning and the Fuzzy QCA Method',
+    },
+    {
+      year: '111',
+      student: '侯超旻',
+      topic: '基於時間性圖神經網絡的社交媒體特徵及公司關係知識圖譜的異常股票檢測',
+    },
+    {
+      year: '111',
+      student: '李育潔',
+      topic: '應用立場檢測結合社群特徵及圖神經網路用於股票異常偵測',
+    },
+    {
+      year: '111',
+      student: '廖婉伶',
+      topic: '應用方法目的鏈探討消費者對有機產品的購買價值',
+    },
+    {
+      year: '111',
+      student: '李宗隆',
+      topic: '透過顧客旅程探索保險服務價值-以新冠肺炎期間遠距視訊投保為例',
+    },
+    {
+      year: '111',
+      student: '楊惠晴',
+      topic: '以顧客旅程地圖探討場域價值與線上服務之創新機會─以投保旅遊平安保險為例',
+    },
+    {
+      year: '111',
+      student: '賴惠棋',
+      topic: '以顧客旅程地圖探討壽險業網路投保風險識別與管控',
+    },
+    {
+      year: '111',
+      student: '林子鈞',
+      topic: '以顧客旅程探討金融詐騙告警服務對金融機構企業價值之影響',
+    },
+    {
+      year: '110',
+      student: '呂韋葶',
+      topic: '警示股票與網路留言之探索',
+    },
+    {
+      year: '110',
+      student: '尹貽正',
+      topic: '整合技術指標與交易策略應用機器學習預測股市漲跌',
+    },
+    {
+      year: '110',
+      student: '黃子滔',
+      topic: '利用知識圖譜嵌入進行基於序列和服裝搭配的推薦系統',
+    },
+    {
+      year: '110',
+      student: '孫健修',
+      topic: '基於深度強化式學習多代理人投資組合 自適應交易模型',
+    },
+    {
+      year: '110',
+      student: '鄭如涵',
+      topic: '基於深度學習以服裝風格特徵建構個人化推薦系統',
+    },
+    {
+      year: '110',
+      student: '黃煜為',
+      topic: '多任務中文Aspect 類別萃取暨情感極性預測模型',
+    },
+    {
+      year: '110',
+      student: '邱春華',
+      topic: '無線電信終端產品申請官方認證之創新關鍵服務',
+    },
+    {
+      year: '110',
+      student: '黃耀宗',
+      topic: '企業併購之ERP系統整合決策探討-以T企業集團併購為例',
+    },
+    {
+      year: '110',
+      student: '留秋玉',
+      topic: '透過顧客旅程探索銀行的服務價值—以新冠肺炎期間勞工紓困貸款為例',
+    },
+    {
+      year: '110',
+      student: '鄭美中',
+      topic: '以機器學習為基礎之CEO生涯分析: 以美國大學畢業生為例',
+    },
+    {
+      year: '110',
+      student: '邱郁雯',
+      topic: '以方法目的鏈探討後疫情時代供應商評選條件',
+    },
+    {
+      year: '110',
+      student: '陳明仁',
+      topic: '結合顧客旅程與文字探勘以探索顧客意見-以A電信公司門市評論為例',
+    },
+    {
+      year: '109',
+      student: '崔昭娟',
+      topic: 'A Text Mining Approach To Analyzing User Service Experience: A Case Of Kakaobank Application',
+    },
+    {
+      year: '109',
+      student: 'Rhea Sharmayne Legaspi',
+      topic: 'A Mixed Method Approach to Analyzing User Service Experience: A Case Study of the Philippines Digital Banking Application Reviews',
+    },
   ],
   undergrad: [
     {
@@ -214,8 +379,15 @@ function ResearchTable({ title, data, delay = 0 }: TableProps) {
         </div>
       </div>
 
-      {/* Table Body */}
-      <div>
+      {/* Table Body - 添加滾動功能 */}
+      <div 
+        style={{ 
+          maxHeight: '200px',
+          overflowY: 'auto',
+          overflowX: 'hidden'
+        }}
+        className="scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100"
+      >
         {data.map((item, index) => (
           <motion.div
             key={index}
@@ -225,7 +397,7 @@ function ResearchTable({ title, data, delay = 0 }: TableProps) {
             className="grid gap-6 px-8 py-5 transition-colors duration-200 hover:bg-gray-50"
             style={{
               gridTemplateColumns: '80px 120px 1fr',
-              borderBottom: index < data.length - 1 ? '1px solid #f3f4f6' : 'none',
+              borderBottom: '1px solid #f3f4f6',
             }}
           >
             <div className="text-gray-600" style={{ fontSize: '16px', fontWeight: 400 }}>
@@ -338,19 +510,26 @@ export function ResearchSection() {
                 borderBottom: '1px solid #e5e7eb',
               }}
             >
-              <div  style={{ fontSize: '20px', fontWeight: 1000 , color: '#FFFFFF' }}>
+              <div style={{ fontSize: '20px', fontWeight: 1000, color: '#FFFFFF' }}>
                 年度
               </div>
-              <div  style={{ fontSize: '20px', fontWeight: 1000 , color: '#FFFFFF' }}>
+              <div style={{ fontSize: '20px', fontWeight: 1000, color: '#FFFFFF' }}>
                 學生
               </div>
-              <div  style={{ fontSize: '20px', fontWeight: 1000 , color: '#FFFFFF' }}>
+              <div style={{ fontSize: '20px', fontWeight: 1000, color: '#FFFFFF' }}>
                 研究
               </div>
             </div>
 
-            {/* Table Body */}
-            <div>
+            {/* Table Body - 添加滾動功能 */}
+            <div
+              style={{
+                maxHeight: '250px',
+                overflowY: 'auto',
+                overflowX: 'hidden'
+              }}
+              className="scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100"
+            >
               {currentData.map((item, index) => (
                 <motion.div
                   key={`${activeCategory}-${index}`}
@@ -360,7 +539,7 @@ export function ResearchSection() {
                   className="grid gap-6 px-8 py-5 transition-colors duration-200 hover:bg-gray-50"
                   style={{
                     gridTemplateColumns: '80px 120px 1fr',
-                    borderBottom: index < currentData.length - 1 ? '1px solid #f3f4f6' : 'none',
+                    borderBottom: '1px solid #f3f4f6',
                   }}
                 >
                   <div className="text-gray-600" style={{ fontSize: '16px', fontWeight: 400 }}>
