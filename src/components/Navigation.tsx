@@ -79,7 +79,10 @@ export function Navigation() {
                 transition={{ delay: 0.4 }}
                 className="hidden lg:block px-4 xl:px-6 py-2.5 bg-gradient-to-r from-teal-500 to-cyan-600 hover:from-teal-600 hover:to-cyan-700 border border-teal-500/30 rounded-full text-sm text-white transition-all duration-300 backdrop-blur-sm relative overflow-hidden group shadow-md hover:shadow-lg whitespace-nowrap"
               >
-                <span className="relative z-10">聯絡我們</span>
+                <a href="mailto:lijen.cheng@gmail.com">
+                  <span class="relative z-10">聯絡我們</span>
+                </a>
+
                 <div className="absolute inset-0 bg-gradient-to-r from-teal-400/0 to-cyan-400/0 group-hover:from-teal-400/20 group-hover:to-cyan-400/20 transition-all duration-300" />
               </motion.button>
 

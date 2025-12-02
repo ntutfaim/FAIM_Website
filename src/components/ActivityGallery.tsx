@@ -44,9 +44,9 @@ const activities: Activity[] = [
   {
     id: 4,
     title: '照片放這邊', /*學長姐!照片放這邊再麻煩了!! */
-    participants: 58,/*參加人數 */
-    duration: '2025/12/25',/*日期 */
-    image: 'https://images.unsplash.com/photo-1758270705290-62b6294dd044?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncm91cCUyMHN0dWR5JTIwbGVhcm5pbmd8ZW58MXx8fHwxNzYwODc4MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    participants: 8,/*參加人數 */
+    duration: '2023/12/25',/*日期 */
+    image: '/img/活動照片/爬山.jpg',
     description: ' ',
   },
 ];

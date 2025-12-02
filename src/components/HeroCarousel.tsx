@@ -22,9 +22,9 @@ const slides: CarouselSlide[] = [
     tag: '企業應用',
     mainImage: '/img/hero/深度學習.png',
     cardImages: [
-      '/img/hero/2024專題-1.jpg',
-      '/img/hero/2024專題-2.jpg',
-      '/img/hero/輿情分析.png',
+      '/img/hero/輪播圖/2024_創新大賞.jpg',
+      '/img/hero/輪播圖/聖誕樹.jpg',
+      '/img/hero/輪播圖/2024專題-2.jpg',
     ],
   },
   {
@@ -35,9 +35,9 @@ const slides: CarouselSlide[] = [
     tag: '金融科技',
     mainImage: '/img/hero/數位金融.png',
     cardImages: [
-      '/img/hero/2024專題-1.jpg',
-      '/img/hero/2024專題-2.jpg',
-      '/img/hero/輿情分析.png',
+      '/img/hero/輪播圖/論文獎.jpg',
+      '/img/hero/輪播圖/2024_生日.jpg',
+      '/img/hero/輪播圖/2024_教師節.jpg',
     ],
   },
   {
@@ -48,9 +48,9 @@ const slides: CarouselSlide[] = [
     tag: '自然語言處理',
     mainImage: '/img/hero/文字的力量.png',
     cardImages: [
-      '/img/hero/2024專題-1.jpg',
-      '/img/hero/開會照片.jpg',
-      '/img/hero/2024專題-2.jpg',
+      '/img/hero/輪播圖/2022_畢業照.jpg',
+      '/img/hero/輪播圖/2024專題-1.jpg',
+      '/img/hero/輪播圖/2023_教師節.jpg',
     ],
   },
   {
@@ -61,9 +61,9 @@ const slides: CarouselSlide[] = [
     tag: '社會分析',
     mainImage: '/img/hero/輿情分析.png',
     cardImages: [
-      '/img/hero/2024專題-1.jpg',
-      '/img/hero/2024專題-2.jpg',
-      '/img/hero/文字的力量.png',
+      '/img/hero/輪播圖/2023_畢業照.jpg',
+      '/img/hero/輪播圖/2024_聖誕節.jpg',
+      '/img/hero/輪播圖/2023_聖誕節_4.jpg',
     ],
   },
 ];
