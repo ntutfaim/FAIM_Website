@@ -418,7 +418,7 @@ export function HeroCarousel() {
               maxWidth: '200px',
             }}
           >
-            24/12/03 最新實驗室網站已上線
+            25/12/05 最新實驗室網站已上線
           </p>
         </div>
       </motion.div>
